@@ -5,16 +5,17 @@ SpatialLM: A 3D Large Language Model for Structured Scene Understanding, Process
   
 [![Watch the video](https://github.com/miladfa7/SpatialLM-Gradio/blob/master/figures/Thumbnail.png)](https://www.youtube.com/watch?v=j5SykSmAsfQ)
 
+### Run demo
+```python
+    python gradio_demo.py
+```
 </div>
 
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 
-<div align="center">
-  <img src="figures/logo_light.png#gh-light-mode-only" width="60%" alt="SpatialLM" />
-  <img src="figures/logo_dark.png#gh-dark-mode-only" width="60%" alt="SpatialLM" />
-</div>
+
 <hr style="margin-top: 0; margin-bottom: 8px;">
 
 <div align="center" style="margin-top: 0; padding-top: 0; line-height: 1;">
