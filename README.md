@@ -1,9 +1,8 @@
-# SpatialLM-Gradio
 ### Gradio Interface for SpatialLM Model
 SpatialLM: A 3D Large Language Model for Structured Scene Understanding, Processing Point Cloud Data from Monocular Videos, RGBD Images, and LiDAR.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/c0218d6a-f676-41f8-ae76-bba228866306" poster="figures/gradio_home.png"> </video>
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j5SykSmAsfQ/0.jpg)](https://www.youtube.com/watch?v=j5SykSmAsfQ)
   <p><i></i></p>
 </div>
 
