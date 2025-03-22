@@ -99,6 +99,6 @@ All models are built upon the SceneScript point cloud encoder, licensed under th
 
 ## Acknowledgements
 
-We would like to thank the following projects that made this work possible:
+I would like to thank the following projects that made this work possible:
 
-[Llama3.2](https://github.com/meta-llama) | [Qwen2.5](https://github.com/QwenLM/Qwen2.5) | [Transformers](https://github.com/huggingface/transformers) | [SceneScript](https://github.com/facebookresearch/scenescript) | [TorchSparse](https://github.com/mit-han-lab/torchsparse)
+[SpatialLM](https://github.com/manycore-research/SpatialLM/)
