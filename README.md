@@ -2,8 +2,9 @@
 SpatialLM: A 3D Large Language Model for Structured Scene Understanding, Processing Point Cloud Data from Monocular Videos, RGBD Images, and LiDAR.
 
 <div align="center">
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j5SykSmAsfQ/0.jpg)](https://www.youtube.com/watch?v=j5SykSmAsfQ)
-  <p><i></i></p>
+  
+[![Watch the video](https://github.com/miladfa7/SpatialLM-Gradio/blob/master/figures/Thumbnail.png)](https://www.youtube.com/watch?v=j5SykSmAsfQ)
+
 </div>
 
 <!-- markdownlint-disable first-line-h1 -->
